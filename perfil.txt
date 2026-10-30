@@ -1,1 +1,2 @@
 Color favorito: rojo y verde
+comida favorita: pizza
